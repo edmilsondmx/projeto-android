@@ -89,7 +89,7 @@ header > p{
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 nav{
     
@@ -147,22 +147,6 @@ div.video1 > iframe{
     
 }
 
-/* div.video1{
-    position: relative;
-    background-color: var(--cor5);
-    height: 0px;
-    margin-left: -20px;
-    margin-right: -20px;
-    margin-bottom: 15px;
-    padding-bottom: 59%;
-}
-div.video1 > iframe{
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
-} */
 article > aside{
     background-color: var(--cor1);
     padding: 10px;
@@ -200,4 +184,3 @@ footer > p > a:hover{
     text-decoration: underline;
     color: var(--cor1);
 }
-footer:a
